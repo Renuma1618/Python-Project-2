@@ -202,3 +202,10 @@ def run_all():
     #     print(0)
 a = int(input())
 run_all()
+
+
+
+
+
+# Testfall #	Input	Förväntad output
+# 1	1	1
